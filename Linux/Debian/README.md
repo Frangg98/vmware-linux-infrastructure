@@ -15,6 +15,6 @@ red, GRUB y troubleshooting básico.
 5. Configuración restante del sistema
 6. Configuración de GRUB
 7. Troubleshooting
--Arreglar Instalación de paquetes
--Agregar nuevo usuario de manera correcta
--Solución al error cuando solo aparece $ y asignación de una bash/Shell
+- 7.1 Arreglar Instalación de paquetes
+- 7.2 Agregar nuevo usuario de manera correcta
+- 7.3 Solución al error cuando solo aparece $ y asignación de una bash/Shell
