@@ -24,10 +24,10 @@ Script que permite validar archivo por archivo, a partir de su .mf, si los datos
 A travez de manifest valida los archivos descargados y dependiendo de su SHA ejecuta comandos que permiten validar si los archivos no estan corruptos.
 
 - 📄 **Script:**  
-  [`Scripts/QuickBackup_VMs_From_TXT.ps1`](Scripts/QuickBackup_VMs_From_TXT.ps1)
+  [`Scripts/Validacion_de_ovfs_con_SHA.ps1`](Validacion_de_ovfs_con_SHA.ps1)
 
 - 📘 **Documentación:**  
-  [`Scripts/QuickBackup_VMs_From_TXT.md`](Scripts/QuickBackup_VMs_From_TXT.md)
+  [`Scripts/Validacion_de_ovfs_con_SHA.md`](Scripts/Validacion_de_ovfs_con_SHA.md)
 
 ---
 
