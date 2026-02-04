@@ -19,6 +19,18 @@ Ajusta automáticamente el *CPU Limit* de cada VM dentro del vCenter.
 
 ---
 
+### 🔹 Validación de OVF's  
+Script que permite validar archivo por archivo, a partir de su .mf, si los datos obtenidos no estan corruptos y fueron descargados correctamente.
+A travez de manifest valida los archivos descargados y dependiendo de su SHA ejecuta comandos que permiten validar si los archivos no estan corruptos.
+
+- 📄 **Script:**  
+  [`Scripts/QuickBackup_VMs_From_TXT.ps1`](Scripts/QuickBackup_VMs_From_TXT.ps1)
+
+- 📘 **Documentación:**  
+  [`Scripts/QuickBackup_VMs_From_TXT.md`](Scripts/QuickBackup_VMs_From_TXT.md)
+
+---
+
 ### 🔹 Quick Backup de VMs desde archivo .txt (Veeam Backup 12+)  
 Script que permite ejecutar un **Quick Backup masivo**, leyendo un archivo .txt con una lista de VMs.  
 Localiza las VMs en todos los vCenter registrados en Veeam y ejecuta Quick Backup utilizando el último restore point.
@@ -30,6 +42,7 @@ Localiza las VMs en todos los vCenter registrados en Veeam y ejecuta Quick Backu
   [`Scripts/QuickBackup_VMs_From_TXT.md`](Scripts/QuickBackup_VMs_From_TXT.md)
 
 ---
+
 
 ## 🧰 Lenguajes / Tecnologías Utilizadas
 
